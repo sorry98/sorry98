@@ -34,3 +34,4 @@ begginer web front-end developer.
 
 ![Gmail](https://img.shields.io/badge/orgsorry98@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:orgsorry98@gmail.com)
 <a href="https://www.instagram.com/chlwothd" target="blank">![Instagram](https://img.shields.io/badge/@chlwothd-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)</a>
+<a href="https://discord.gg/3rC7SUyyvR" target="blank">![Discord](https://img.shields.io/badge/MyServer-%237289DA.svg?style=flat-square&logo=discord&logoColor=white)
