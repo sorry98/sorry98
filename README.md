@@ -1,9 +1,9 @@
-### 👋 Hi there!
+### 👋 Hi there
 
 begginer web front-end developer.
 <br>
 
-### 💻🛠 Tech >>
+### 💻🛠 Tech >>  
 
 <table>
     <tr>
