@@ -19,7 +19,6 @@ begginer web front-end developer.
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white">
       </td>
       <td>
-        <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=black">
         <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white">
       </td>
       <td>
